@@ -1,7 +1,7 @@
 const textConfig = {
   text1: "Híu eyyy",
   text2: "Anh có điều này Híu bấm vào nút Okiii nha",
-  text3: "Ngàn lần shin lũi Híuuuu",
+  text3: "Cho anh xin lỗi",
   text4: 'Sẽ thật là sòu nếu em vẫn block và giận anh như vậy',
   text5: "Anh là ai mà tôi phải dỗi :((",
   text6: "Em dỗi sơ thôi giờ em bỏ qua cho đếyy",
